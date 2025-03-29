@@ -45,6 +45,7 @@ async function run() {
   "falseMisleadingInformation": [["Quote from the article", "Source of the fact-checked information (include the url)", "Summary"]],
   "factualTrueInformation": [["Quote from the article", "Source of the fact-checked information (include the url)", "Summary"]],
   "confidenceInAccuracy": 0%
+  "articleLink": ""
 }
 
 Artcle Link: https://thebatt.com/life-arts/farm-fresh-and-locally-grown-an-ethical-approach-to-livestock/
