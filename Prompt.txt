@@ -1,0 +1,5 @@
+Determine the politcal bias of the following text Answer like
+
+Progressive/Conservative Bias:
+Authoritarian/Libertarian:
+Collectivist/Capitalist
