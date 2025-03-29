@@ -111,7 +111,7 @@ async function run(url, article, date) {
   "justification": "",
   "falseMisleadingInformation": [["Quote from the article", "Source of the fact-checked information (include the url)", "Summary"]],
   "factualTrueInformation": [["Quote from the article", "Source of the fact-checked information (include the url)", "Summary"]],
-  "confidenceInAccuracy": 0%
+  "impartiality": 0%
   "articleLink": ""
 }
 
