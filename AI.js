@@ -28,11 +28,29 @@ async function run() {
 
 Progressive/Conservative Bias:
 Authoritarian/Libertarian:
-Collectivist/Capitalist:
-Give the percentages in like a 3d axis like a graph
+Communist/Capitalist:
+Give the percentages in like a 3d axis like a graph and provide a justification for the answer. If there isn't really a discussion of a particular axis, put 0 for both
+When determining the bias, don't just look at the text, but also look at the title and the url as well as the date, author (do research on the author), fact-checking databases, and transparency of the source.
+Specifically mention false/misleading information as part of the justification, indicate the quote and the source.
+For Your total justifaction and what you wll output, use the following format (Don't Add "*"s to your output):
 
- Let some people get rich first - Deng Xiaoping
-`;
+
+Axis:
+Progressive/Conservative Bias:
+Authoritarian/Libertarian Bias:
+Communist/Capitalist Bias:
+
+Justification:
+
+False/Misleading Information (include the exact quote from the article and include sources of the fact-checked information and summary (Bullet Points should not have "*"s)):
+
+Factual/True Information (include the exact quote from the article and include sources of the fact-checked information and summary (Bullet Points should not have "*"s)):
+
+Confidence in Accuracy (1-100%):
+
+
+March 29, 2025
+`
 
     const result = await chatSession.sendMessage(prompt);
     console.log(result.response.text());
