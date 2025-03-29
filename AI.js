@@ -44,66 +44,121 @@ async function run() {
   "justification": "",
   "falseMisleadingInformation": [["Quote from the article", "Source of the fact-checked information (include the url)", "Summary"]],
   "factualTrueInformation": [["Quote from the article", "Source of the fact-checked information (include the url)", "Summary"]],
-  "confidenceInAccuracy": 0%
+  "impariality": 0%
   "articleLink": ""
 }
 
-Artcle Link: https://thebatt.com/life-arts/farm-fresh-and-locally-grown-an-ethical-approach-to-livestock/
+Artcle Link: https://www.nytimes.com/2025/03/28/us/politics/greenland-jd-vance-usha.html
 
-When determining the bias, don't just look at the text, but also look at the title and the url as well as the date, author (do research on the author), fact-checking databases, and transparency of the source.
-Specifically mention false/misleading information as part of the justification, indicate the quote and the source. For the confidence in accuracy, use the fact-checking databases and the transparency of the source to determine the confidence in accuracy.
-MAKE SURE YOU GET ALL FACTUAL AND MISLEADING INFORMATION FROM THE ARTICLE
+Visiting Greenland, Vance Finds the Weather and the Reception Chilly
+The trip was both a reconnaissance mission and a passive-aggressive reminder of President Trump’s determination to fulfill his territorial ambitions, no matter the obstacles.
 
-March 28, 2025:
-Katie Faulkenberry and Taylor Hurst ‘20’s journey into ethical farming was shaped by a blend of shared values and a focus on sustainability. Faulkenberry, who had once been a vegetarian, and Hurst, whose roots run deep in East Texas ranching, found common ground in their passion for animal welfare and sustainable practices. Together, they have built Hurst Livestock Co., where respect for the land and animals is a top priority.
-
-Hurst , a research engineer at the Bush Combat Development Center at Texas A&M’s RELLIS campus, specializes in research and development for the Department of Defense. Despite Hurst’s demanding career, his heart is deeply connected to the farm. 
-
-“I grew up in East Texas,” Hurst said. “I’m a fourth-generation rancher, so being around animals was just a part of life for me.” 
-
-For Faulkenberry, the shift toward farming was more gradual. As a vegetarian, she had never considered raising animals for food. But after meeting Hurst, her perspective began to change. 
-
-“I was always hesitant about farming, especially raising animals for consumption,” Faulkenberry said. “But as we started working with animals ourselves, I realized how much care they need. It became about respect, not just raising them to eat.”
-
-Combining Hurst’s lifelong passion for livestock with Faulkenberry’s shift toward ethical, sustainable agriculture. The couple’s journey took a significant turn one day when they posted to social media that they were selling a dozen free-range eggs.
-
-3t6a5567
-Katie Faulkenberry and Taylor Hurst show off two young turkeys on their farm on Friday, March 21, 2025. (Lillian Lopez/The Battalion)
-“Within one hour, fifty-two people reached out wanting to buy them,” Faulkenberry said. “That was the moment we realized we had something special.”
-
-They started small, raising chickens and cattle, all while learning the practices of animal welfare and sustainable farming. Without a blueprint to guide them, the couple relied on trial and error, research and advice from experienced ranchers. 
-
-“I went to our USDA processing facility and I walked around for three and a half hours asking the most intricate questions that I could think of,” Faulkenberry said. “I went from never touching a cow in my life to selling beef from the cows that I have in my backyard in four years.” 
-
-Over time, they expanded their operation and built a business that reflects their values, providing high-quality, ethically raised meat to their local community. Today, the couple manages a 31-acre free-range farm in Bryan-College Station, where they raise a variety of animals, including 410 egg-laying hens. 
-
-Their diverse flock includes breeds such as Easter Eggers, Copper Marans, Leghorn and Freedom Rangers, providing a wide range of colorful eggs that have become a hallmark of their farm.
-
-“We have everything from blue and green eggs to dark brown ones,” Hurst said. “It’s important to us to offer variety, and we love raising chickens that are as unique as they are productive.”
-
-The couple sells their eggs on their website and directly to customers at Brazos Valley Farmers’ Market. Prices for their eggs range from $5 per half a dozen to $8 per dozen. 
-
-“We want to make sure our products are affordable while still reflecting the care and quality we put into raising the animals,” Faulkenberry said. “At the end of the day, it’s about making sure our customers are getting the best.”
-
-But it’s not just about the eggs. Their vision for the farm extends beyond just farming. Faulkenberry has plans to turn part of the land into a storefront and a potential spot for local schools to have field trips.
-
-“We want to offer fresh, ethical products to the community and provide educational opportunities for kids,” Faulkenberry said. “It’s important to me to teach the next generation about where their food comes from. When I was younger, I didn’t learn these things, and I want to change that.”
-
-The couple hopes to expand in the future, eyeing a nearby 40-acre parcel of land that would allow them to double their operation and create more opportunities for hands-on education and farming. 
-
-3t6a5459
-Taylor Hurst pets one of the cows on the farm on March 21, 2025. (Lillian Lopez/The Battalion)
- “We want to create something that’s not only self-sustaining but also benefits the community,” said Hurst. “We’re signing our names on these products, so it’s important to give people something they can trust and know was raised with care.”
-
-One of the ways they accomplish this goal is by involving customers in the selection process for their livestock. By visiting the farm, customers can see firsthand how the animals are raised.  Hurst believes this strengthens their confidence in the process and deepens their connection to the food they’re consuming. 
-
-“We let customers come onto the land and pick out their cows,” Hurst said. “They get to see the animals up close, understand how they’re raised and choose the exact one they want. It’s all about transparency and building trust.”
-
-Hurst and Faulkenberry are focused on building something that will leave a lasting impact. It’s about more than just farming, it’s about building something that will endure. 
-
-“Our legacy will stand for a family that has, one, stayed true to their word, and two, has built something that not only is self-deserving but a representation of the local community,”  Hurst said. “Providing to locals a product that was made by Texans for Texans … something that will carry on long after we’re gone.”
+Share full article
 
 
+Send any friend a story
+
+As a subscriber, you have 10 gift articles to give each month. Anyone can read what you share.
+
+
+
+
+Vice President JD Vance on a tour of the Pituffik Space Base in Greenland on Friday.Credit...Pool photo by Jim Watson
+David E. Sanger
+By David E. Sanger
+David E. Sanger covers the White House and national security, and writes often on the revival of superpower conflict, the subject of his newest book.
+
+March 28, 2025
+Leer en español
+President Trump has been less than subtle in his insistence that the United States will “get” Greenland one way or another, reiterating on Friday that the United States cannot “live without it.”
+
+By the time he uttered those words in the Oval Office, the highest-level American political expeditionary force ever to set foot on the vast territory had already landed to inspect the real estate prospects. But they were confined inside the fence of a remote, frozen American air base, the only place protesters could not show up.
+
+Led by Vice President JD Vance, the American visitors quickly discovered what past administrations have learned back to the 1860s: The meteorological conditions are as forbidding as the politics. When Mr. Vance’s plane touched down in the midday sunshine, 750 miles north of the Arctic Circle, it was minus 3 degrees outside.
+
+Mr. Vance used a jocular and slightly vulgar epithet to describe the temperature, where he was wearing jeans and a parka, but no hat or gloves. “Nobody told me,” he said to the troops at the Pituffik Space Base as he entered their mess hall for lunch. The U.S. Space Force Guardians, who run what was once known after World War II as Thule Air Force Base, broke out laughing.
+
+Advertisement
+
+SKIP ADVERTISEMENT
+
+But for all the humor, the trip was simultaneously a reconnaissance mission and a passive-aggressive reminder of Mr. Trump’s determination to fulfill his territorial ambitions, no matter what the obstacles. As if to drive home the point, Mr. Trump told reporters in the Oval Office on Friday: “We have to have Greenland. It’s not a question of ‘Do you think we can do without it.’ We can’t.”
+
+Image
+
+The flag of Greenland, known as “Erfalasorput,” flying in Nuuk on Friday. Credit...Leon Neal/Getty Images
+In fact, of the four territories Mr. Trump has discussed acquiring — Greenland, the Panama Canal, Canada and Gaza — it is Greenland that he seems most determined to get. Perhaps it is the vast expanse of the territory, far larger than Mexico. Perhaps it is its strategic location, or his determination to have an American “sphere of influence,” a very 19th-century view of how great powers deal with each other.
+
+Yet one of the mysteries hanging over the Vance tour is how far Mr. Trump is willing to go to achieve his goal. That has been the question since early January, when Mr. Trump, awaiting his inauguration, was asked whether he would rule out economic or military coercion to get his way. “I’m not going to commit to that,” he said. “You might have to do something.”
+
+Not since the days of William McKinley, who engaged in the Spanish-American War in the late 19th century and ended up with U.S. control of the Philippines, Guam and Puerto Rico, has an American president-elect so blatantly threatened the use of force to expand the country’s territorial boundaries. And the visit on Friday appeared designed to make that clear, without quite repeating the threat.
+
+Editors’ Picks
+
+Sudoku Solvers Have Made the Game Their Own
+
+Is Kermit the Frog What the Class of 2025 Needs?
+
+Ode to a Gen-Z Situationship
+Advertisement
+
+SKIP ADVERTISEMENT
+
+Mr. Vance is the first sitting vice president to visit a land that Americans have coveted for more than a century and a half. The fact that he was accompanied by the embattled national security adviser, Michael Waltz, and the energy secretary, Chris Wright, was clearly designed to underscore the strategic rationale that Mr. Trump cites as a justification for his territorial ambitions.
+
+Before the visit, the leader of Greenland suggested that he viewed Mr. Waltz’s presence, in particular, as a show of Mr. Trump’s aggressive intent.
+
+Image
+A protester holds a sign saying “Never a B-2 stealth bomber on Pituffik Space Base Never!”
+A protest in Nuuk against an increase of the U.S. military presence in Greenland on Friday. Credit...Leon Neal/Getty Images
+“What is the national security adviser doing in Greenland?” Múte Bourup Egede, Greenland’s 38-year-old prime minister, told the local newspaper Sermitsiaq on Sunday. “The only purpose is to demonstrate power over us.”
+
+Mr. Egede and other Greenland officials made it clear that the Americans were not welcome for a visit. The White House had to scrap a good-will tour by Usha Vance, the vice president’s wife, who had been planning to attend a dog sled race and hold conversations with ordinary Greenlanders. As it became clear that the roads around Nuuk, the capital, would be lined with protesters, the visit was moved just to the Space Force base, where distance from any population center and high fences assured there would be no visible dissent.
+
+Advertisement
+
+SKIP ADVERTISEMENT
+
+Mr. Trump is not wrong when he claims that there are strategic advantages to acquiring the territory. William Seward, the secretary of state under Abraham Lincoln and Andrew Johnson, was negotiating to buy the territory for a bit more than $5 million in 1868 — with Iceland thrown in — just after he acquired Alaska. But the deal never came to fruition. Harry Truman wanted the territory after World War II, recognizing that failure to control it would give advantage to the Soviets, and make the United States more vulnerable to Soviet submarines.
+
+Q&A
+Hundreds of readers asked about our coverage of the president. Times editors and reporters responded.
+
+You Asked, We Answered: How The Times Is Reporting on the Trump Administration
+March 6, 2025
+Today Greenland is the site of a surface and undersea competition with China and Russia for access to the Arctic, a territory with vastly increased military and commercial importance since global warming made traversing polar routes easier. And Mr. Trump has made clear he is interested in Greenland’s untapped mineral reserves and rare earths, as he is in Ukraine, Russia and Canada.
+
+“If you look at the globe, you can see why we prefer that the Russians and the Chinese don’t control this,” said Doug Bandow, a senior fellow at the libertarian Cato Institute in Washington. “But we don’t need to own it to protect it and prevent them from taking control.”
+
+Mr. Trump, he said, “wants the resources of Greenland, but in today’s world you can buy resources.” And by expanding the American presence, he could defend against growing Chinese or Russian influence without seizing control of the land.
+
+But Mr. Trump looks at the world through the eyes of a real estate developer, and he clearly cherishes territorial control. In his inaugural address he talked about “manifest destiny” and praised Mr. McKinley. James K. Polk’s portrait has made it on the wall of the Oval Office, along with a selection of other past presidents; he was the president who oversaw much of the American expansion to the West Coast.
+
+Advertisement
+
+SKIP ADVERTISEMENT
+
+Mr. Vance’s audience was American troops, not Greenlanders, once his wife’s trip was turned into a vice-presidential mission. But he was clearly talking to a larger audience when, before getting back on his plane and returning to warmer climes in Washington, he made the case that the United States would be a far better steward for Greenland than Denmark has been for several hundred years.
+
+“Let’s be honest,” he said. “This base, the surrounding area, is less secure than it was 30, 40, years ago, because some of our allies haven’t kept up as China and Russia have taken greater and greater interest in Greenland, in this base, in the activities of the brave Americans right here.”
+
+He charged that Denmark, and much of Europe, has not “kept pace with military spending, and Denmark has not kept pace in devoting the resources necessary to keep this base, to keep our troops, and in my view, to keep the people of Greenland safe from a lot of very aggressive incursions from Russia, from China and from other nations.”
+
+It was a remarkable public critique of a NATO ally, but milder than what Mr. Vance said to his national security colleagues about European partners in the Signal chat that became public earlier in the week.
+
+“Our message to Denmark is very simple, you have not done a good job by the people of Greenland,” Mr. Vance said, all but goading Greenlanders into declaring independence from Denmark. “You have underinvested in the people of Greenland and you have underinvested in the security architecture of this incredible, beautiful land mass, filled with incredible people.”
+
+Advertisement
+
+SKIP ADVERTISEMENT
+
+In an exchange with reporters, Mr. Vance seemed to acknowledge that the drive to acquire the territory had as much to do with Mr. Trump as the national security threat. “We can’t just ignore this place,” he said at one point. “We can’t just ignore the president’s desires. But most importantly, we can’t ignore what I said earlier, which is the Russian and Chinese encroachment in Greenland.”
+
+“When the president says we’ve got to have Greenland, he’s saying this island is not safe,” he said. “A lot of people are interested in it. A lot of people are making a play.” But he was careful to say the decision about whom to partner with was Greenland’s. (Mr. Trump himself has not put it in such voluntary terms.)
+
+Just before he left, Mr. Vance was asked if military plans had been drafted to take Greenland if it declines to become an American protectorate.
+
+“We do not think that military force is ever going to be necessary,” he said. “We think the people of Greenland are rational and good, and we think we’re going to be able to cut a deal, Donald Trump-style, to ensure the security of this territory, but also the United States of America.”
 
 
 
